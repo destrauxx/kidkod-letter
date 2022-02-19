@@ -1,0 +1,45 @@
+<mjml>
+  <mj-head>
+    <mj-font name='Nunito' href="https://fonts.googleapis.com/css2?family=Nunito:wght@600"></mj-font>
+    <mj-font name='Comfortaa' href='https://fonts.googleapis.com/css2?family=Comfortaa:wght@600'></mj-font>
+  </mj-head>
+  <mj-body background-color='#FFCA03' width='58%'>
+    <mj-section padding='5%'></mj-section>
+    <mj-section background-color='#EB5757' padding='0%'>
+      <mj-column width='80%' padding-top='35px'>
+        <mj-text padding='0' align='left' font-family='Nunito' font-size='25px' color='white'>
+          Здравствуйте, Михаил!
+        </mj-text>
+        <!-- <mj-image padding='0' src='mail assets/logo.png' width='75px'></mj-image> -->
+      </mj-column>
+      <mj-column width='15%' padding-top='10px'>
+        <mj-image padding='0' src='mail assets/logo.png' width='0px' align='right' />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color='#EB5757' padding='0%'>
+      <mj-column width='80%'>
+        <mj-text padding='0' align='left' font-family='Comfortaa' font-size='16px' line-height='20px' color='white'>
+          Ваша заявка на проведение пробного занятия отправлена!
+          В ближайшее время администратор свяжется с вами, чтобы уточнить детали.
+        </mj-text>
+      </mj-column>
+      <mj-column width='15%'></mj-column>
+    </mj-section>
+    <mj-section background-color='#EB5757' padding='0%'>
+      <mj-column width='40%' padding-top='100%'>
+        <mj-text padding='0' align='center' font-family='Comfortaa' font-size='16px' line-height='20px' color='white'>
+          Свяжитесь с нами в соцсетях
+        </mj-text>
+        <mj-social>
+          <mj-social-element src='mail assets/vk.png' href='' icon-size='30px'></mj-social-element>
+          <mj-social-element src='mail assets/tg.png' href='' icon-size='30px'></mj-social-element>
+          <mj-social-element src='mail assets/ig.png' href='' icon-size='30px'></mj-social-element>
+          <mj-social-element src='mail assets/fb.png' href='' icon-size='30px'></mj-social-element>
+        </mj-social>
+      </mj-column>
+      <mj-column width='60%' padding-right='10px'>
+        <mj-image padding='0' src='mail assets/register-boy.png' width='0px' align='right' />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
